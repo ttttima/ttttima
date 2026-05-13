@@ -21,6 +21,6 @@ then ship it anyway 😭🙏
 
 <br>
 
-<sub>currently under construction because the code is scared of me 🚧</sub>
+<sub>Rule nr 1: DONT ask me about code ⛔</sub>
 
 </div>
