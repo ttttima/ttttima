@@ -2,7 +2,7 @@
 
 # Hey, my name is Tima
 
-**Powered by ADHD, caffeine, and motivation at 2 AM ⚡☕🌙**
+**Powered by caffeine overdose, and motivation at 2 AM ⚡☕🌙**
 
 <br>
 
@@ -12,8 +12,8 @@
 
 ### Amateur vibe coder turning bad ideas into barely working apps 💀
 
-I break code, blame the compiler, pretend it was intentional,  
-then ship it anyway 😭🙏
+If break code, I blame the compiler,  
+😭🙏
 
 <br>
 
