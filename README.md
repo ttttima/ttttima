@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, my name is Tima 🧍‍♂️
+# Hey, my name is Tima
 
 **Powered by ADHD, caffeine, and motivation at 2 AM ⚡☕🌙**
 
@@ -17,7 +17,7 @@ then ship it anyway 😭🙏
 
 <br>
 
-`ctrl+c` `ctrl+v` `pray` `repeat`
+`ctrl+c` `ctrl+v` `pray` 🔁
 
 <br>
 
