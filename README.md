@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ttttima/ttttima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋 I'm Tima!
 
-Here are some ideas to get you started:
+**Nice to see you here 💀**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...but this page is still under construction 🚧
+
+<br>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="520"/>
+
+<br><br>
+
+### Amateur vibe coder turning bad ideas into barely working apps 🧍‍♂️💻
+
+I break the code, blame the compiler, then ship it anyway 😭🙏
+
+<br>
+
+`ctrl+c` `ctrl+v` `pray`
+
+</div>
