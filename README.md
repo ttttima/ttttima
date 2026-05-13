@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hey 👋 I'm Tima!
+# Hey, my name is Tima 🧍‍♂️
 
-**Nice to see you here 💀**
-
-...but this page is still under construction 🚧
+**Powered by ADHD, caffeine, and motivation at 2 AM ⚡☕🌙**
 
 <br>
 
@@ -12,12 +10,17 @@
 
 <br><br>
 
-### Amateur vibe coder turning bad ideas into barely working apps 🧍‍♂️💻
+### Amateur vibe coder turning bad ideas into barely working apps 💀
 
-I break the code, blame the compiler, then ship it anyway 😭🙏
+I break code, blame the compiler, pretend it was intentional,  
+then ship it anyway 😭🙏
 
 <br>
 
-`ctrl+c` `ctrl+v` `pray`
+`ctrl+c` `ctrl+v` `pray` `repeat`
+
+<br>
+
+<sub>currently under construction because the code is scared of me 🚧</sub>
 
 </div>
