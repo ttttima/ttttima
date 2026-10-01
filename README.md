@@ -2,7 +2,7 @@
 
 # Hey, my name is Tima
 
-**Powered by caffeine overdose, and motivation at 2 AM ⚡☕🌙**
+**Powered by caffeine overdose☕🌙**
 
 <br>
 
@@ -13,7 +13,7 @@
 ### Amateur vibe coder turning bad ideas into barely working apps 💀
 
 If break code, I blame the compiler,  
-😭🙏
+
 
 <br>
 
