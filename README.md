@@ -3,10 +3,7 @@
 # Hey, my name is Tima
 
 **Powered by coffeine**
-
 <br>
-
-<br><br>
 
 ### Amateur vibe coder turning bad ideas into barely working apps 
 
