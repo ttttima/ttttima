@@ -2,10 +2,9 @@
 
 # Hi, I'm Tima
 
-**Web designer & developer · Founder of [Tima Design](https://timadesign.xtate.net)**
-Building modern, fast websites for local businesses in Trójmiasto, Poland.
+**High school student · Developer · Always learning**
+Building apps, tools and websites while expanding my horizons in tech.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-timadesign.xtate.net-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://timadesign.xtate.net)
 [![GitHub](https://img.shields.io/badge/GitHub-ttttima-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ttttima)
 [![School Projects](https://img.shields.io/badge/Projects-SzkolaProjektyTima-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SzkolaProjektyTima)
 
@@ -15,11 +14,11 @@ Building modern, fast websites for local businesses in Trójmiasto, Poland.
 
 ## About
 
-I design and build websites that help small and local businesses look great online and win new customers. Alongside client work, I build my own apps and tools to keep learning and experimenting.
+I'm a high school student with a passion for building things on the web and beyond. I use every project as a chance to learn something new, whether that's a new language, a new framework or a better way to design.
 
-- **Client work** · custom websites for Polish local businesses through Tima Design
-- **Side projects** · browser and mobile apps, small utilities and games
-- **Always learning** · new frameworks, better design, cleaner code
+- **Building** · browser and mobile apps, small utilities and games
+- **Learning** · new technologies, cleaner code and better design
+- **Exploring** · expanding my horizons one project at a time
 
 ## Featured Projects
 
@@ -38,9 +37,11 @@ I design and build websites that help small and local businesses look great onli
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Work With Me
+## Currently
 
-Need a new website or a refresh of an old one? Take a look at my work at **[timadesign.xtate.net](https://timadesign.xtate.net)** and get in touch.
+- Growing my projects and trying out new ideas
+- Learning more with every school and personal project
+- Open to feedback, ideas and collaboration
 
 ---
 
