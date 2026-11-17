@@ -1,52 +1,70 @@
 <div align="center">
 
-# Hi, I'm Tima
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Tima&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-**High school student · Developer · Always learning**
-Building apps, tools and websites while expanding my horizons in tech.
+<a href="https://github.com/ttttima">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4FA3C7&center=true&vCenter=true&width=600&lines=High+school+student+%F0%9F%8E%93;Building+apps%2C+tools+%26+websites;Expanding+my+horizons+every+day;Always+learning+something+new" alt="Typing intro" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ttttima-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ttttima)
-[![School Projects](https://img.shields.io/badge/Projects-SzkolaProjektyTima-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SzkolaProjektyTima)
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/ttttima?label=Follow&style=for-the-badge&logo=github&color=2c5364)](https://github.com/ttttima)
+[![Profile views](https://komarev.com/ghpvc/?username=ttttima&style=for-the-badge&color=2c5364&label=Profile+Views)](https://github.com/ttttima)
 
 </div>
 
 ---
 
-## About
+### 🙋 About Me
 
-I'm a high school student with a passion for building things on the web and beyond. I use every project as a chance to learn something new, whether that's a new language, a new framework or a better way to design.
+I'm a high school student who loves turning ideas into real projects. Every app, tool and website I build is a chance to learn something new and push a little further than last time.
 
-- **Building** · browser and mobile apps, small utilities and games
-- **Learning** · new technologies, cleaner code and better design
-- **Exploring** · expanding my horizons one project at a time
+- 🔭 Building **browser and mobile apps**, small utilities and games
+- 🌱 Learning new technologies, cleaner code and better design
+- 🧭 Expanding my horizons one project at a time
+- 🤝 Open to feedback, ideas and collaboration
 
-## Featured Projects
+---
 
-| Project | Description |
-| :--- | :--- |
-| [**Terra Browser**](https://github.com/ttttima/Terra-Browser) | A custom web browser project |
-| [**Terra Mobile**](https://github.com/ttttima/Terra-mobile) | The mobile side of the Terra project |
-| [**ColorDetector**](https://github.com/ttttima/ColorDetector) | A tool for detecting and identifying colors |
-| [**SzkolaProjektyTima**](https://github.com/SzkolaProjektyTima) | A collection of school and learning projects |
+### 🚀 Featured Projects
 
-## Tech Stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌍 <a href="https://github.com/ttttima/Terra-Browser">Terra Browser</a></h4>
+      A custom web browser project.
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 <a href="https://github.com/ttttima/Terra-mobile">Terra Mobile</a></h4>
+      The mobile side of the Terra project.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 <a href="https://github.com/ttttima/ColorDetector">ColorDetector</a></h4>
+      A tool for detecting and identifying colors.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏫 <a href="https://github.com/SzkolaProjektyTima">SzkolaProjektyTima</a></h4>
+      A collection of my school and learning projects.
+    </td>
+  </tr>
+</table>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+---
 
-## Currently
+### 📊 GitHub Activity
 
-- Growing my projects and trying out new ideas
-- Learning more with every school and personal project
-- Open to feedback, ideas and collaboration
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ttttima&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+
+</div>
 
 ---
 
 <details>
-<summary><b>Git Cheat Sheet</b> (click to expand)</summary>
+<summary><b>📘 Git Cheat Sheet</b> (click to expand)</summary>
 
 <br>
 
@@ -75,3 +93,5 @@ git push -u origin main
 ```
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
