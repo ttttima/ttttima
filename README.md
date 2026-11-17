@@ -2,7 +2,8 @@
 
 # Hi, I'm Tima 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=460&lines=High+school+student;Building+apps%2C+tools+%26+websites;Always+expanding+my+horizons" alt="intro" />
+High school student building apps, tools and websites.<br>
+Always expanding my horizons.
 
 </div>
 
