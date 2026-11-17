@@ -53,20 +53,7 @@ I'm a high school student who loves turning ideas into real projects. Every app,
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ttttima&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-
-</div>
-
----
-
-<details>
-<summary><b>📘 Git Cheat Sheet</b> (click to expand)</summary>
-
-<br>
+### 📘 Git Cheat Sheet
 
 | Task | Command |
 | :--- | :--- |
@@ -92,6 +79,5 @@ git remote add origin https://github.com/USER/REPO.git
 git push -u origin main
 ```
 
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
